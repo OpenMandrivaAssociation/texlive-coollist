@@ -6,7 +6,7 @@
 # catalog-version 1.4
 Name:		texlive-coollist
 Version:	1.4
-Release:	6
+Release:	7
 Summary:	Manipulate COntent Oriented LaTeX Lists
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/coollist
