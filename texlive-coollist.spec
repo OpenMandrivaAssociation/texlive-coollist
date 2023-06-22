@@ -1,6 +1,6 @@
 Name:		texlive-coollist
-Version:	63523
-Release:	2
+Version:	67048
+Release:	1
 Summary:	Manipulate COntent Oriented LaTeX Lists
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/coollist
