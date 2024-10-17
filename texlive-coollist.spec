@@ -3,7 +3,7 @@ Version:	67048
 Release:	1
 Summary:	Manipulate COntent Oriented LaTeX Lists
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/coollist
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/coollist
 License:	LGPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/coollist.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/coollist.doc.r%{version}.tar.xz
